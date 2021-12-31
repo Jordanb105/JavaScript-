@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+The things you learn in Intro to JS are definitely very useful. That's where you learn the basics of the JavaScript language. If you are looking to create web projects, you will have to learn Javascript in order to develop the client side code. If you learn the foundations of programming in JavaScript you can reapply that education later in building web applications. You'll learn to use closures and higher-order functions well in JavaScript, because you have to. And then you can generalize this knowledge to any other language that has these, and the good ones do.
 
-You can use the [editor on GitHub](https://github.com/Jordanb105/JavaScript-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jordanb105/JavaScript-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+By using the UI capabilities in HTML and CSS you can develop substantial applications with graphical interfaces more quickly and with less effort than in other languages which would require you to learn a windowing library. JavaScript looks for every possible way to treat the code you write as runnable and is very reluctant to point out likely errors. For example, you have call a function with too many arguments, the extra arguments are simply discarded. his is because changes to one small part of a program can randomly break things anywhere else. These kinds of bugs are notoriously hard to find. ou have to exercise a great deal of caution and awareness.
